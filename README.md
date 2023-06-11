@@ -11,3 +11,4 @@ Consumer.ipynb is the Kafka Consumer Code.
 
 kafkaconsumer01--> This is the S3 bucket that I had used to push the files.
 
+![Untitled Jam 1](https://github.com/Telusuga/AWS-Real-Time-Data-Pipeline/assets/113308141/521bd287-713a-449c-a737-447fe8e90313)
