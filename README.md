@@ -20,5 +20,5 @@ When the consumer runs the files will be loaded into S3 Bucket
 After the files load now the crawler run has been completed which will be creating a metadata in the Data Catalog
 ![image](https://github.com/Telusuga/AWS-Real-Time-Data-Pipeline/assets/113308141/84f7a2ee-9a56-4806-8b7a-a28fd56ddd5a)
 
-After the Crawler run the data can be viewd in AWS Athena
+After the Crawler run the data can be viewed in AWS Athena
 ![image](https://github.com/Telusuga/AWS-Real-Time-Data-Pipeline/assets/113308141/600072f1-6633-4a86-b9d2-9f03bd3f3efe)
